@@ -14,3 +14,6 @@ Each topic has its own folder. Click below to navigate:
 - [01-12-2025 Introduction to HTML](./html/01-12-2025-introduction-to-html.md)
 
 ## CSS
+
+- [02-12-2025 CSS Basics](./css/css-basics/02-12-2025-css-basics.md)
+- [04-12-2025 CSS Positioning](./css/css-positioning/04-12-2025-css-positioning.md)
