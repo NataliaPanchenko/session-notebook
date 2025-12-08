@@ -12,7 +12,7 @@ Each topic has its own folder. Click below to navigate:
 ## HTML
 
 - [01-12-2025 Introduction to HTML](./html/01-12-2025-introduction-to-html.md)
-- [08-12-2025 Accessibility](./html/08-12-2025-css-accessibility.md)
+- [08-12-2025 Accessibility](./html/08-12-2025-accessibility.md)
 
 ## CSS
 
