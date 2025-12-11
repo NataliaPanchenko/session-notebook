@@ -22,3 +22,7 @@ Each topic has its own folder. Click below to navigate:
 - [05-12-2025 CSS Structure](./css/05-12-2025-css-structure.md)
 - [05-512-2025 CSS Grid](./css/05-12-2025-css-grid.md)
 - [08-12-2025 CSS Responsive](./css/08-12-2025-css-responsive.md)
+
+## JavaScript
+
+- [11-12-2025 JavaScript Basics and Variables](./javascript/11-12-2025-js_basics-and-variables.md)
