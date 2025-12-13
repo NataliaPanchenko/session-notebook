@@ -25,4 +25,6 @@ Each topic has its own folder. Click below to navigate:
 
 ## JavaScript
 
-- [11-12-2025 JavaScript Basics and Variables](./javascript/11-12-2025-js_basics-and-variables.md)
+- [11-12-2025 JS Basics and Variables](./js/11-12-2025-js_basics-and-variables.md)
+- [12-12-2025 JS DOM and Events](./js/12-12-2025-js-dom-and-events.md)
+- [12-12-2025 JS Conditions and Booleans](./js/12-12-2025-js-conditions-and-booleans.md)
