@@ -13,6 +13,7 @@ Each topic has its own folder. Click below to navigate:
 
 - [01-12-2025 Introduction to HTML](./html/01-12-2025-introduction-to-html.md)
 - [08-12-2025 Accessibility](./html/08-12-2025-accessibility.md)
+- [16-12-2025 HTML Forms](./html/16-12-2025-html-forms)
 
 ## CSS
 
@@ -28,3 +29,6 @@ Each topic has its own folder. Click below to navigate:
 - [11-12-2025 JS Basics and Variables](./js/11-12-2025-js_basics-and-variables.md)
 - [12-12-2025 JS DOM and Events](./js/12-12-2025-js-dom-and-events.md)
 - [12-12-2025 JS Conditions and Booleans](./js/12-12-2025-js-conditions-and-booleans.md)
+- [15-12-2025 JS Objects and Arrays](./js/15-12-2025-js-objects-and-arrays.md)
+- [15-12-2025 JS Functions](./js/15-12-2025-js-functions.md)
+- [16-12-2025 JS Inputs and Strings](./js/16-12-2025-js-inputs-and-strings.md)
