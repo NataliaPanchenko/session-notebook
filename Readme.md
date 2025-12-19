@@ -23,6 +23,7 @@ Each topic has its own folder. Click below to navigate:
 - [05-12-2025 CSS Structure](./css/05-12-2025-css-structure.md)
 - [05-512-2025 CSS Grid](./css/05-12-2025-css-grid.md)
 - [08-12-2025 CSS Responsive](./css/08-12-2025-css-responsive.md)
+- [08-12-2025 CSS Animations](./css/19-12-2025-css-animations.md)
 
 ## JavaScript
 
@@ -32,3 +33,5 @@ Each topic has its own folder. Click below to navigate:
 - [15-12-2025 JS Objects and Arrays](./js/15-12-2025-js-objects-and-arrays.md)
 - [15-12-2025 JS Functions](./js/15-12-2025-js-functions.md)
 - [16-12-2025 JS Inputs and Strings](./js/16-12-2025-js-inputs-and-strings.md)
+- [18-12-2025 JS Forms](./js/18-12-2025-js-forms.md)
+- [18-12-2025 JS Create Element](./js/18-12-2025-js-create-element.md)
