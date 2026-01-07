@@ -27,7 +27,7 @@ Each topic has its own folder. Click below to navigate:
 
 ## JavaScript
 
-- [11-12-2025 JS Basics and Variables](./js/11-12-2025-js_basics-and-variables.md)
+- [11-12-2025 JS Basics and Variables](./js/11-12-2025-js-basics-and-variables.md)
 - [12-12-2025 JS DOM and Events](./js/12-12-2025-js-dom-and-events.md)
 - [12-12-2025 JS Conditions and Booleans](./js/12-12-2025-js-conditions-and-booleans.md)
 - [15-12-2025 JS Objects and Arrays](./js/15-12-2025-js-objects-and-arrays.md)
@@ -35,3 +35,5 @@ Each topic has its own folder. Click below to navigate:
 - [16-12-2025 JS Inputs and Strings](./js/16-12-2025-js-inputs-and-strings.md)
 - [18-12-2025 JS Forms](./js/18-12-2025-js-forms.md)
 - [18-12-2025 JS Create Element](./js/18-12-2025-js-create-element.md)
+- [06-01-2026 JS Loops](./js/06-01-2025-js-loops.md)
+- [06-01-2026 JS Loops](./js/06-01-2025-js-array-methods.md)
