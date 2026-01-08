@@ -37,3 +37,4 @@ Each topic has its own folder. Click below to navigate:
 - [18-12-2025 JS Create Element](./js/18-12-2025-js-create-element.md)
 - [06-01-2026 JS Loops](./js/06-01-2025-js-loops.md)
 - [06-01-2026 JS Array Methods](./js/06-01-2025-js-array-methods.md)
+- [08-01-2026 JS Structure](./js/08-01-2025-js-structure.md)
