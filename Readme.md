@@ -39,3 +39,4 @@ Each topic has its own folder. Click below to navigate:
 - [06-01-2026 JS Array Methods](./js/06-01-2026-js-array-methods.md)
 - [08-01-2026 JS Structure](./js/08-01-2026-js-structure.md)
 - [08-01-2026 JS Fetch](./js/08-01-2025-js-fetch.md)
+- [09-01-2026 JS Error Handling](./js/09-01-2025-js-error-handling.md)
