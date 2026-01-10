@@ -90,9 +90,9 @@ If a merge conflict occurs, you can use **VSCode** to solve it:
 
 - Choose one option to resolve the merge conflict:
 
-1. `Accept Current Change` → keep content of the feature branch
-2. `Accept Incoming Change` → keep content of the main branch (because we are merging main into the feature branch)
-3. `Accept Both Changes` → keep both changes
+  - `Accept Current Change` → keep content of the feature branch
+  - `Accept Incoming Change` → keep content of the main branch (because we are merging main into the feature branch)
+  - `Accept Both Changes` → keep both changes
 
 - save the file and stage the changes (`git add <filename>`)
 - follow the further steps along `git merge` or `git rebase`
