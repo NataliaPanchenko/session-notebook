@@ -80,8 +80,6 @@ Git cannot decide which code is the correct one and marks it as a **conflict**.
 
 Conflicts **have to be solved manually** by developers.
 
----
-
 ## How to Solve Conflicts in VSCode
 
 If a merge conflict occurs, you can use **VSCode** to solve it:
