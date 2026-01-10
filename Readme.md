@@ -8,6 +8,7 @@ Each topic has its own folder. Click below to navigate:
 - [28-11-2025 GitHub and Markdown](./shell-and-git/28-11-2025-github-and-markdown.md)
 - [01-12-2025 Git Cli and Remote](./shell-and-git/01-12-2025-git-cli-and-remote.md)
 - [02-12-2025 Git Branches and PRs](./shell-and-git/02-12-2025-git-branches-and-prs.md)
+- [09-01-2026 Git Advanced](./js/09-01-2025-js-error-handling.md)
 
 ## HTML
 
@@ -39,4 +40,4 @@ Each topic has its own folder. Click below to navigate:
 - [06-01-2026 JS Array Methods](./js/06-01-2026-js-array-methods.md)
 - [08-01-2026 JS Structure](./js/08-01-2026-js-structure.md)
 - [08-01-2026 JS Fetch](./js/08-01-2025-js-fetch.md)
-- [09-01-2026 JS Error Handling](./js/09-01-2025-js-error-handling.md)
+- [09-01-2026 JS Error Handling](./shell-and-git/09-01-2026-git-advanced.md)
