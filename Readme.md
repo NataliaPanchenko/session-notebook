@@ -42,3 +42,8 @@ Each topic has its own folder. Click below to navigate:
 - [08-01-2026 JS Fetch](./js/08-01-2025-js-fetch.md)
 - [09-01-2026 JS Error Handling](./shell-and-git/09-01-2026-git-advanced.md)
 - [12-01-2026 JS Modern Syntax](./js/12-01-2026-js-modern-syntax.md)
+
+## React
+
+- [15-01-2026 React Basics](./react/15-01-2026-react-basics.md)
+- [16-01-2026 React Props](./react/16-01-2026-react-props.md)
