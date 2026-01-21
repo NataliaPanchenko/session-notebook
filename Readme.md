@@ -50,4 +50,5 @@ Each topic has its own folder. Click below to navigate:
 - [16-01-2026 React Nesting](./react/16-01-2025-react-nesting.md)
 - [19-01-2026 React State 1](./react/19-01-2026-react-state-1.md)
 - [19-01-2026 React with Arrays](./react/19-01-2026-react-with-arrays.md)
-- [19-01-2026 React State 2](./react/20-01-2026-react-state-2.md)
+- [20-01-2026 React State 2](./react/20-01-2026-react-state-2.md)
+- [20-01-2026 React State 3](./react/20-01-2026-react-state-3.md)
