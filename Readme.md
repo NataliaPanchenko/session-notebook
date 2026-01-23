@@ -52,3 +52,4 @@ Each topic has its own folder. Click below to navigate:
 - [19-01-2026 React with Arrays](./react/19-01-2026-react-with-arrays.md)
 - [20-01-2026 React State 2](./react/20-01-2026-react-state-2.md)
 - [20-01-2026 React State 3](./react/20-01-2026-react-state-3.md)
+- [22-01-2026 React Effects and Fetch](./react/22-01-2026-react-effects-and-fetch.md)
