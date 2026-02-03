@@ -42,6 +42,7 @@ Each topic has its own folder. Click below to navigate:
 - [08-01-2026 JS Fetch](./js/08-01-2025-js-fetch.md)
 - [09-01-2026 JS Error Handling](./shell-and-git/09-01-2026-git-advanced.md)
 - [12-01-2026 JS Modern Syntax](./js/12-01-2026-js-modern-syntax.md)
+- [02-02-2026 JS Unit Testing](./js/02-02-2026-js-unit-testing.md)
 
 ## React
 
@@ -55,3 +56,11 @@ Each topic has its own folder. Click below to navigate:
 - [22-01-2026 React Effects and Fetch](./react/22-01-2026-react-effects-and-fetch.md)
 - [22-01-2026 React with Local Storage](./react/22-01-2026-react-with-local-storage.md)
 - [23-01-2026 React Custom Hooks](./react/23-01-2026-react-custom-hooks.md)
+- [02-02-2026 React Styled Components](./react/02-02-2026-react-styled-components.md)
+- [03-02-2026 React Component Testing](./react/03-02-2026-react-component-testing.md)
+- [03-02-2026 React Global State](./react/03-02-2026-react-global-state.md)
+
+## Next.js
+
+- [30-01-2026 Next.js Basics and Routing](./nextjs/30-01-2026-nextjs-basics-and-routing.md)
+- [30-01-2026 Next.js Dynamic Routes](./nextjs/30-01-2026-nextjs-dynamic-routes.md)
