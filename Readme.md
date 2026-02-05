@@ -59,6 +59,7 @@ Each topic has its own folder. Click below to navigate:
 - [02-02-2026 React Styled Components](./react/02-02-2026-react-styled-components.md)
 - [03-02-2026 React Component Testing](./react/03-02-2026-react-component-testing.md)
 - [03-02-2026 React Global State](./react/03-02-2026-react-global-state.md)
+- [05-02-2026 React Data Fetching](./react/05-02-2026-react-data-fetching.md)
 
 ## Next.js
 
