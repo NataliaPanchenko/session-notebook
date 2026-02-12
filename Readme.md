@@ -65,3 +65,7 @@ Each topic has its own folder. Click below to navigate:
 
 - [30-01-2026 Next.js Basics and Routing](./nextjs/30-01-2026-nextjs-basics-and-routing.md)
 - [30-01-2026 Next.js Dynamic Routes](./nextjs/30-01-2026-nextjs-dynamic-routes.md)
+
+## Backend
+
+- [12-02-2026 Backend Basics](./backend/12-02-2026-backend-basics.md)
