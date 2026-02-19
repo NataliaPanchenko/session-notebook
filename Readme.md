@@ -69,3 +69,13 @@ Each topic has its own folder. Click below to navigate:
 ## Backend
 
 - [12-02-2026 Backend Basics](./backend/12-02-2026-backend-basics.md)
+- [13-02-2026 Backend API Routes](./backend/13-02-2026-backend-api-routes.md)
+- [13-02-2026 Backend MongoDB]()
+- [16-02-2026 Backend Read](./backend/16-02-202-backend-read.md)
+- [16-02-2026 Backend Create](./backend/16-02-2026-backend-create.md)
+- [17-02-2026 Backend Update and Delete](./backend/17-02-2026-backend-update-and-delete.md)
+
+## Development Workflow
+
+- [19-02-2026 Agile Workflow and User Stories]()
+- [19-02-2026 How to Scrum & How to Code Review]()
